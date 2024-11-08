@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryadwiputra
-- 👀 I’m interested in Laravel, React, Vue, Inertia and TailwindCSS
+- 👀 I’m interested in Laravel, ExpressJS, NestJS, React and Vue
 - 🌱 I’m currently learning Laravel and Inertia Stack
-- 🖥️ I'm currently developing Perfex CRM
+- 🖥️ I'm currently developing Assets Management System
 - 💞️ I’m looking to collaborate on Laravel Open Source Projects
 - 📫 Reach me on email aryadptr.developer@gmail.com
 - 😄 Pronouns: He
