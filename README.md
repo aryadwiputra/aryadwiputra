@@ -6,7 +6,7 @@
 - 📫 Reach me on email aryadptr.developer@gmail.com
 - 😄 Pronouns: He
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryadwiputra&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Arya Dwi Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryadwiputra&show_icons=true&bg_color=00000000)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryadwiputra&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
