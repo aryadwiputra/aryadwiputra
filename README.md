@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryadwiputra
 - 👀 I’m interested in Laravel, Express, Nest, React and Vue
-- 🌱 I’m currently learning Go and Vue
+- 🌱 I’m currently learning Nest and Vue
 - 🖥️ I'm currently developing Omnichannel Multichat
 - 💞️ I’m looking to collaborate on Laravel Open Source Projects
 - 📫 Reach me on email aryadptr.developer@gmail.com
