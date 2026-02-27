@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryadwiputra&label=Profile%20views&color=0e75b6&style=flat" alt="aryadwiputra" /> </p>
 
-- 🔭 I’m currently working on Omnichannel [Datakelola](datakelola.com)
+- 🔭 I’m currently working on Omnichannel [Datakelola](datakelola.com) and Personal Web [aryadp.web.id](aryadp.web.id)
 
 - 🌱 I’m currently learning JavaScript and Go **Golang, ReactJS, VueJS, ExpressJS**
 
