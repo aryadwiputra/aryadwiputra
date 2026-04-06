@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Omnichannel [Datakelola](datakelola.com) and Personal Web [aryadwip.com](aryadwip.com)
 
-- 🌱 I’m currently learning JavaScript and Go **Golang, ReactJS, VueJS, ExpressJS**
+- 🌱 I’m currently learning **Golang, ReactJS, VueJS and ExpressJS**
 
 - 👯 I’m looking to collaborate [Point of Sales](github.com/aryadwiputra/point-of-sales)
 
