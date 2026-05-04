@@ -22,7 +22,7 @@ I am a passionate developer focusing on building robust web applications. I love
 ### 🏆 Top Projects
 | Project | Description | Tech Stack | Stars |
 | :--- | :--- | :--- | :--- |
-| [**Point of Sales**](https://github.com/aryadwiputra/point-of-sales) | Modern POS System with Inertia & React | Laravel, React, Tailwind | ⭐ 185+ |
+| [**Point of Sales**](https://github.com/aryadwiputra/point-of-sales) | Modern POS System with Inertia & React | Laravel, React, Tailwind | ⭐ 200+ |
 | [**Asset Management**](https://github.com/aryadwiputra/asset-management-system) | Management system for company assets | PHP, HTML | ⭐ 10+ |
 | [**Perfex CRM Starter**](https://github.com/aryadwiputra/perfex-crm-starter-module-template) | Module starter template for Perfex CRM | PHP | ⭐ 9+ |
 
