@@ -11,8 +11,8 @@
 I am a passionate developer focusing on building robust web applications. I love working with **Laravel** and exploring modern frontend technologies like **React** and **Inertia.js**.
 
 - 🔭 **Currently working on:** - [Datakelola](https://datakelola.com) - Omnichannel Multichat platform.
-  - [Komodo Voyage](https://komodovoyage.koleksikode.com) - Online Travel Agent. [Personal Website](https://aryadwip.com) - Personal Website.
-- 🌱 **Learning Path:** Mastering **Golang**, **ReactJS**, **VueJS**, and **ExpressJS**.
+  - [Point of Sales](https://dikasir.web.id) - Point of Sales. [Personal Website](https://aryadwip.com) - Personal Website.
+- 🌱 **Learning Path:** Mastering **Bun**, **Elysia**, **Hono**, and **Svelte**.
 - 🛠️ **Featured Project:** [Point of Sales](https://github.com/aryadwiputra/point-of-sales) - A modern POS system built with **Laravel 12**, **Inertia 2**, **React**, and **Tailwind**.
 - 💬 **Ask me about:** Laravel, PHP, JavaScript, and Web Architecture.
 - 📫 **Contact:** [aryaadwptr@gmail.com](mailto:aryaadwptr@gmail.com)
